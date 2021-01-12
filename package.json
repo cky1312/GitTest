@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cky1312/GitTest/issues"
   },
-  "homepage": "https://github.com/cky1312/GitTest#readme"
+  "homepage": "https://github.com/cky1312/GitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
